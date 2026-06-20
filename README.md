@@ -71,9 +71,9 @@
 
 ## 📊 GitHub Stats
 
-![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balajimadala&show_icons=true&theme=tokyonight)
+![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balajimadala12&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balajimadala&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balajimadala12&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=balajimadala&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=balajimadala12&theme=tokyonight)
 
