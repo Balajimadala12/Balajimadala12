@@ -67,3 +67,13 @@
 📧 Email: vtu26121@veltech.edu.in
 
 💼 LinkedIn: https://www.linkedin.com/in/balaji-madala-aa4622286
+
+
+## 📊 GitHub Stats
+
+![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balajimadala&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balajimadala&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=balajimadala&theme=tokyonight)
+
